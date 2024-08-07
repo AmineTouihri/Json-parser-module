@@ -1,0 +1,10 @@
+{
+  "authorName": "jhon",
+  "books": [
+    {
+      "name": "the elegant object",
+      "pages": 100,
+      "creationDate": "2020-07-15"
+    }
+  ]
+}
